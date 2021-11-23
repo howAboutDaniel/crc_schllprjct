@@ -1,5 +1,5 @@
+//  Bežná CMD Line aplikácia bez GUI
 //
-//  main.cpp
 //  cyclicRedundancyCheck
 //
 //  Created by Daniel Dlugos on 18/11/2021.
